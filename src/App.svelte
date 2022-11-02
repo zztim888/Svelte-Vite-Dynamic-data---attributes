@@ -10,6 +10,7 @@
 <h4>Dynamic atributes</h4>
 <img src={src} alt="a football"> <br> <br>
 
+// this is a shorthand
 <img {src} alt="a football">
 
 <style>
